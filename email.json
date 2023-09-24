@@ -1,0 +1,5 @@
+{
+  "email": "Seu e-mail aqui",
+  "password": "Sua senha de e-mail aqui",
+  "receiver": "O e-mail para onde as credenciais serão enviadas"
+}
