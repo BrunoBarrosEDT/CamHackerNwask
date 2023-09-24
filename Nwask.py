@@ -219,7 +219,7 @@ cprint = Console().print
 # Get Columns of Screen
 columns = get_terminal_size().columns
 
-repo_url = "https://github.com/\x4b\x61\x73\x52\x6f\x75\x64\x72\x61/CamHackerNwask"
+repo_url = "https://github.com/BrunoBarrosEDT/CamHackerNwask"
 sites_repo = "https://github.com/BrunoBarrosEDT/CamHackerNwask"
 websites_url = f"{sites_repo}/archive/main.zip"
 repo_branch = "Nwask-main"
