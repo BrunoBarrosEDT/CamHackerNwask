@@ -27,6 +27,3 @@ O CamHackerNwask é compatível com o Android, e o Termux é uma ótima maneira 
 
 Se você tiver alguma dúvida específica sobre o uso do CamHackerNwask no Android ou precisar de ajuda relacionada a outras questões, sinta-se à vontade para perguntar.
 
-**Contato**
-
-https://wa.me/+5511994989117
